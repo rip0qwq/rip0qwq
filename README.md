@@ -16,7 +16,13 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />    
   <img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=brave&logoColor=white" />    
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-
+    <hr>
+    <ul>
+    <li>Contact_Me</li>
+    </ul>
+  <a href="mailto:qwqomar101@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
   </body>
 
 </html>
