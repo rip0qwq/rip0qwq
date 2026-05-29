@@ -12,10 +12,10 @@
       <li><b>Things I code with</b></li>
     </ul>
 
-    <img alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white" />
-    <img alt="python" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-    <img alt="vsc" src="https://img.shields.io/badge/-vsc-430098?style=flat-square&logo=vsc&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />    
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />    
+  <img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=brave&logoColor=white" />    
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 
   </body>
 
